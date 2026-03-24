@@ -24,7 +24,13 @@ Phase 5: Claude 接続設定
 - freee アプリ: 作成済み ✓（クライアント ID・シークレット取得済み）
 
 ## 次のアクション
-- OS を確認する
+- get-account-items.js を実行して勘定科目一覧を取得する
+  1. 環境変数を設定: FREEE_CLIENT_ID, FREEE_CLIENT_SECRET, FREEE_COMPANY_ID
+  2. node freee-mcp/work/get-account-items.js を実行
+  3. ブラウザで認可 URL を開き、認可コードを取得して貼り付ける
+
+## 完了したアクション
+- get-account-items.js を作成 ✓
 
 ## ブロッカー
 なし

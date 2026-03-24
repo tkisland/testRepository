@@ -4,12 +4,12 @@
 freee MCP を実際に使える状態にする
 
 ## 現在フェーズ
-Phase 3: freee 側アプリ準備
+Phase 4: freee-mcp 設定
 
 ## フェーズ進捗
 - [x] Phase 1: 現状確認
 - [x] Phase 2: 環境準備
-- [ ] Phase 3: freee 側アプリ準備
+- [x] Phase 3: freee 側アプリ準備
 - [ ] Phase 4: freee-mcp 設定
 - [ ] Phase 5: Claude Code 接続設定
 - [ ] Phase 6: 動作確認
@@ -21,6 +21,7 @@ Phase 3: freee 側アプリ準備
 - OS: Windows
 - Claude 使用環境: Claude Desktop と Claude Code の両方
 - Node.js: インストール済み ✓
+- freee アプリ: 作成済み ✓（クライアント ID・シークレット取得済み）
 
 ## 次のアクション
 - OS を確認する

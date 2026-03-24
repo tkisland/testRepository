@@ -19,6 +19,7 @@ Phase 1: 現状確認
 ## 確認済み情報
 - Auto-save: 有効
 - OS: Windows
+- Claude 使用環境: Claude Desktop と Claude Code の両方
 
 ## 次のアクション
 - OS を確認する

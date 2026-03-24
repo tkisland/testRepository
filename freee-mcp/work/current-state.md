@@ -13,7 +13,7 @@ Phase 7: GitHub / docs 整備
 - [x] Phase 4: freee-mcp 設定
 - [x] Phase 5: Claude Code 接続設定
 - [x] Phase 6: 動作確認（freee データ取得成功 ✓）
-- [ ] Phase 7: GitHub / docs 整備
+- [x] Phase 7: GitHub / docs 整備（README.md 作成済み ✓）
 - [ ] Phase 8: 完了確認
 
 ## 確認済み情報
@@ -24,7 +24,7 @@ Phase 7: GitHub / docs 整備
 - freee アプリ: 作成済み ✓（クライアント ID・シークレット取得済み）
 
 ## 次のアクション
-- Phase 7: GitHub / docs 整備（README や設定手順をドキュメント化）
+- Phase 8: 完了確認
 
 ## ブロッカー
 なし

@@ -91,6 +91,16 @@ freee のデータが返ってくれば設定完了です。
 
 ---
 
+## 勘定科目一覧を取得する（Node.js スクリプト）
+
+MCP を使わずに直接 freee API から勘定科目を取得したい場合は、`work/get-account-items.js` を使用できます。
+
+```bash
+FREEE_ACCESS_TOKEN=<アクセストークン> FREEE_COMPANY_ID=<事業所ID> node work/get-account-items.js
+```
+
+---
+
 ## トラブルシューティング
 
 | 症状 | 対処 |

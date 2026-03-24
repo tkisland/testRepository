@@ -4,7 +4,7 @@
 freee MCP を実際に使える状態にする
 
 ## 現在フェーズ
-Phase 7: GitHub / docs 整備
+Phase 8: 完了
 
 ## フェーズ進捗
 - [x] Phase 1: 現状確認
@@ -14,7 +14,7 @@ Phase 7: GitHub / docs 整備
 - [x] Phase 5: Claude Code 接続設定
 - [x] Phase 6: 動作確認（freee データ取得成功 ✓）
 - [x] Phase 7: GitHub / docs 整備（README.md 作成済み ✓）
-- [ ] Phase 8: 完了確認
+- [x] Phase 8: 完了確認（勘定科目取得スクリプト作成済み ✓）
 
 ## 確認済み情報
 - Auto-save: 有効
@@ -24,7 +24,7 @@ Phase 7: GitHub / docs 整備
 - freee アプリ: 作成済み ✓（クライアント ID・シークレット取得済み）
 
 ## 次のアクション
-- Phase 8: 完了確認
+- 完了
 
 ## ブロッカー
 なし

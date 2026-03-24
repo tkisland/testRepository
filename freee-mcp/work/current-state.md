@@ -18,6 +18,7 @@ Phase 1: 現状確認
 
 ## 確認済み情報
 - Auto-save: 有効
+- OS: Windows
 
 ## 次のアクション
 - OS を確認する

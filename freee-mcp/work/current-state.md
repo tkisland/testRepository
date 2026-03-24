@@ -4,15 +4,15 @@
 freee MCP を実際に使える状態にする
 
 ## 現在フェーズ
-Phase 5: Claude 接続設定
+Phase 7: GitHub / docs 整備
 
 ## フェーズ進捗
 - [x] Phase 1: 現状確認
 - [x] Phase 2: 環境準備
 - [x] Phase 3: freee 側アプリ準備
 - [x] Phase 4: freee-mcp 設定
-- [ ] Phase 5: Claude Code 接続設定
-- [ ] Phase 6: 動作確認
+- [x] Phase 5: Claude Code 接続設定
+- [x] Phase 6: 動作確認（freee データ取得成功 ✓）
 - [ ] Phase 7: GitHub / docs 整備
 - [ ] Phase 8: 完了確認
 
@@ -24,8 +24,7 @@ Phase 5: Claude 接続設定
 - freee アプリ: 作成済み ✓（クライアント ID・シークレット取得済み）
 
 ## 次のアクション
-- FREEE_ACCESS_TOKEN と FREEE_COMPANY_ID を設定ファイルに記入する
-- Claude Desktop を再起動して動作確認
+- Phase 7: GitHub / docs 整備（README や設定手順をドキュメント化）
 
 ## ブロッカー
-- FREEE_ACCESS_TOKEN・FREEE_COMPANY_ID の取得状況を確認中
+なし

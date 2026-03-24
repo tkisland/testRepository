@@ -24,7 +24,8 @@ Phase 5: Claude 接続設定
 - freee アプリ: 作成済み ✓（クライアント ID・シークレット取得済み）
 
 ## 次のアクション
-- OS を確認する
+- FREEE_ACCESS_TOKEN と FREEE_COMPANY_ID を設定ファイルに記入する
+- Claude Desktop を再起動して動作確認
 
 ## ブロッカー
-なし
+- FREEE_ACCESS_TOKEN・FREEE_COMPANY_ID の取得状況を確認中

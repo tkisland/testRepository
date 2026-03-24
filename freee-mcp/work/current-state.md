@@ -20,6 +20,7 @@ Phase 1: 現状確認
 - Auto-save: 有効
 - OS: Windows
 - Claude 使用環境: Claude Desktop と Claude Code の両方
+- Node.js: 未インストール → インストールが必要
 
 ## 次のアクション
 - OS を確認する
